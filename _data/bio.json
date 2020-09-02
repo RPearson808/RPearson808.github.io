@@ -50,69 +50,34 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "Office of Internships & Career Development, Shidler College of Business",
+      "position": "IT Student Assistant",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "Feburary 2020",
+      "endDate": "Present",
       "highlights": [
-        "",
-        ""
+        "Updated the Shidler Career Links website to a more modern web platform",
+        "Collabing with both office and student staff on holding a virtual career expo for the school"
       ]
     },
     {
-      "company": "",
-      "position": "",
+      "company": "Best Buy Co., Inc.",
+      "position": "Computing Sales Consultant",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "May 2019",
+      "endDate": "Present",
       "highlights": [
-        "",
-        ""
+        "Assist customers in finding the right products and services to fulfill their technologic needs",
+        "Inform customers about new and exciting technologies developed for consumer electronics"
       ]
     }
   ],
-  "volunteer": [
+  "Certifications": [
     {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
+      "title": "CompTIA ITF+ Certification",
+      "date": "Feburary 2019",
+      "awarder": "CompTIA",
+      "summary": "The CompTIA ITF+ certification focuses on the knowledge and skills required to identify and explain the basics of computing, IT infrastructure, application and software, software development, database fundamentals and security."
     }
   ],
   "references": [
