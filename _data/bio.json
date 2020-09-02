@@ -53,7 +53,7 @@
       "company": "Office of Internships & Career Development, Shidler College of Business",
       "position": "IT Student Assistant",
       "website": "",
-      "startDate": "Feburary 2020",
+      "startDate": "2020-02-01",
       "endDate": "Present",
       "highlights": [
         "Updated the Shidler Career Links website to a more modern web platform",
@@ -64,7 +64,7 @@
       "company": "Best Buy Co., Inc.",
       "position": "Computing Sales Consultant",
       "website": "",
-      "startDate": "May 2019",
+      "startDate": "2019-05-01",
       "endDate": "Present",
       "highlights": [
         "Assist customers in finding the right products and services to fulfill their technologic needs",
@@ -75,7 +75,7 @@
   "Certifications": [
     {
       "title": "CompTIA ITF+ Certification",
-      "date": "Feburary 2019",
+      "date": "2019-02-01",
       "awarder": "CompTIA",
       "summary": "The CompTIA ITF+ certification focuses on the knowledge and skills required to identify and explain the basics of computing, IT infrastructure, application and software, software development, database fundamentals and security."
     }
