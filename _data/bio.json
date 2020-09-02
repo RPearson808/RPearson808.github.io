@@ -21,37 +21,37 @@
         "url": "http://github.com/RPearson808"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "",
+        ""
       ]
     },
     {
-      "name": "data mining",
+      "name": "",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "",
       "keywords": [
       ]
     }
