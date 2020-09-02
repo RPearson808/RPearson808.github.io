@@ -41,14 +41,11 @@
   ],
   "education": [
     {
-      "institution": "",
-      "area": "",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "",
-      "gpa": "",
-      "courses": [
-      ]
+      "institution": "Shidler College of Business at The University of Hawaii at Manoa",
+      "area": "Management Information Systems (Expected Fall 2021)",
+      "studyType": "BBA",
+      "startDate": "2018-09-01",
+      "endDate": "Present",
     }
   ],
   "work": [
