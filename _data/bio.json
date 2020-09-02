@@ -1,89 +1,92 @@
 {
-  "basics": {
-    "name": "Russel Pearson",
-    "label": "Student",
-    "picture": "https://RPearson808.github.io/images/russel.png",
-    "email": "pearsonr@hawaii.edu",
-    "phone": "",
-    "website": "https://RPearson808.github.io",
-    "summary": "Aloha!  I am currently pursuing a BBA in Management Information Systems.  I am expecting to graduate in Fall 2021.",
-    "location": {
-      "address": "",
-      "postalCode": "96825",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Russel Pearson",
+      "label":"Student",
+      "picture":"https://RPearson808.github.io/images/russel.png",
+      "email":"pearsonr@hawaii.edu",
+      "phone":"",
+      "website":"https://RPearson808.github.io",
+      "summary":"Aloha!  I am currently pursuing a BBA in Management Information Systems.  I am expecting to graduate in Fall 2021.",
+      "location":{
+         "address":"",
+         "postalCode":"96825",
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"RPearson808",
+            "url":"http://github.com/RPearson808"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "RPearson808",
-        "url": "http://github.com/RPearson808"
+         "name":"Video/card games",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Reading books (currently re-reading the LOTR trilogy)",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Messing around wtih technology",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "Video/card games",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Reading books (currently re-reading the LOTR trilogy)",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Messing around wtih technology",
-      "keywords": [
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Shidler College of Business at The University of Hawaii at Manoa",
-      "area": "Management Information Systems (Expected Fall 2021)",
-      "studyType": "BBA",
-      "startDate": "2018-09-01",
-      "endDate": "Present",
-    }
-  ],
-  "work": [
-    {
-      "company": "Office of Internships & Career Development, Shidler College of Business",
-      "position": "IT Student Assistant",
-      "website": "",
-      "startDate": "2020-02-01",
-      "endDate": "Present",
-      "highlights": [
-        "Updated the Shidler Career Links website to a more modern web platform",
-        "Collabing with both office and student staff on holding a virtual career expo for the school"
-      ]
-    },
-    {
-      "company": "Best Buy Co., Inc.",
-      "position": "Computing Sales Consultant",
-      "website": "",
-      "startDate": "2019-05-01",
-      "endDate": "Present",
-      "highlights": [
-        "Assist customers in finding the right products and services to fulfill their technologic needs",
-        "Inform customers about new and exciting technologies developed for consumer electronics"
-      ]
-    }
-  ],
-  "Certifications": [
-    {
-      "title": "CompTIA ITF+ Certification",
-      "date": "2019-02-01",
-      "awarder": "CompTIA",
-      "summary": "The CompTIA ITF+ certification focuses on the knowledge and skills required to identify and explain the basics of computing, IT infrastructure, application and software, software development, database fundamentals and security."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+   ],
+   "education":[
+      {
+         "institution":"Shidler College of Business at The University of Hawaii at Manoa",
+         "area":"Management Information Systems (Expected Fall 2021)",
+         "studyType":"BBA",
+         "startDate":"2018-09-01",
+         "endDate":"Present"
+      }
+   ],
+   "work":[
+      {
+         "company":"Office of Internships & Career Development, Shidler College of Business",
+         "position":"IT Student Assistant",
+         "website":"",
+         "startDate":"2020-02-01",
+         "endDate":"Present",
+         "highlights":[
+            "Updated the Shidler Career Links website to a more modern web platform",
+            "Collabing with both office and student staff on holding a virtual career expo for the school"
+         ]
+      },
+      {
+         "company":"Best Buy Co., Inc.",
+         "position":"Computing Sales Consultant",
+         "website":"",
+         "startDate":"2019-05-01",
+         "endDate":"Present",
+         "highlights":[
+            "Assist customers in finding the right products and services to fulfill their technologic needs",
+            "Inform customers about new and exciting technologies developed for consumer electronics"
+         ]
+      }
+   ],
+   "Certifications":[
+      {
+         "title":"CompTIA ITF+ Certification",
+         "date":"2019-02-01",
+         "awarder":"CompTIA",
+         "summary":"The CompTIA ITF+ certification focuses on the knowledge and skills required to identify and explain the basics of computing, IT infrastructure, application and software, software development, database fundamentals and security."
+      }
+   ],
+   "references":[
+      {
+         "name":"Available upon request",
+         "reference":""
+      }
+   ]
 }
