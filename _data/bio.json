@@ -24,45 +24,18 @@
   },
   "interests": [
     {
-      "name": "",
-      "keywords": [
-        "",
-        ""
-      ]
-    },
-    {
-      "name": "",
+      "name": "Video/card games",
       "keywords": [
       ]
     },
     {
-      "name": "",
+      "name": "Reading books (currently re-reading the LOTR trilogy)",
       "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "",
-      "level": "",
-      "keywords": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
       ]
     },
     {
-      "name": "",
-      "level": "",
+      "name": "Messing around wtih technology",
       "keywords": [
-        "",
-        "",
-        "",
-        "",
-        ""
       ]
     }
   ],
